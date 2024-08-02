@@ -13,6 +13,6 @@ Instalación de Phpmailer
 - Email: joenzofv@hotmail.com
 - Clave: 12345
 
-## Paypal prueba
+## Paypal credenciales
 - Usuario: sb-j6jdb7896999@personal.example.com
 - Contraseña: e8O2lR-I
